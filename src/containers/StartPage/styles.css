@@ -1,0 +1,6 @@
+.CardGroup{
+    display: flex;
+    justify-content: center;
+    width: 700px;
+    margin: 15% 25%;
+}
